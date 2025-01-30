@@ -10,9 +10,9 @@ In my most recent internship, on a technically-focused team at a cybersecurity c
 
 Though undergraduate computer science classes are somewhat approaching a gender equilibrium (although this cannot be said for my cybersecurity classes), this has yet to be reflected in the workplace. The Zuck's own company is 66% male employees. Male bosses and coworkers, though often well-intentioned, still often slip into stereotyping and microaggressions. The experiences of one tech alum, Kelley Greene, described in [this](https://www.yahoo.com/news/woman-worked-tech-industry-15-214617926.html) article, are not unfamiliar. I've been talked down to in job interviews, overlooked in meetings, criticized for traits my male colleagues have been praised for - at my last performance review, I was told I was *too* ambitious, *too* hardworking, and needed ensure my goals were more reasonable, never mind that I achieved every single one. Somehow I doubt any of the male interns were told the same. 
 
-As a senior about to enter the workforce, hoping for a job in software engineering and unable to check my womanhood at the door, this is a scary time. DEI programs are being cut, CEOs are openly regarding "feminine energy" with contempt, and there aren't enough women already in the industry (let alone in leadership positions) to be able to make much of a difference for newcomers. 
+#### Chenxin Yan
 
-And if you needed any proof that his desire for "bringing back masculine energy" was nothing but a thinly-veiled sexist ideal, let it be this: anti-women hate speech will be given more free rein on Meta-owned social media in the comning weeks. It is no longer forbidden to [call women 'property' or 'household objects'](https://www.the-independent.com/tech/facebook-meta-announcement-fact-checking-hate-speech-b2675594.html). It is also now allowed to speak of "a protected group's inferiority" based on "intellectual capacity". 
+[This article](https://www.yahoo.com/news/woman-worked-tech-industry-15-214617926.html) is interesting because it provides a narrative of a woman’s 15-year journey in the tech industry, highlighting the persistent challenges and systemic issues that continue to affect women in tech. Despite ongoing discussions about diversity and inclusion, the narrative highlights that significant barriers remain.
 
 ---
 
